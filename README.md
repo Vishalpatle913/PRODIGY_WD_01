@@ -1,10 +1,10 @@
 # PRODIGY_WD_01
-# 🚀 Responsive Landing Page - Amazon Clone
+# 🚀  Landing Page - Amazon Clone
 
 ## 📌 Task-01 (Prodigy Infotech Internship)
 
 This project is created as a part of *Prodigy Infotech Internship* (Task-01).  
-The task was to build a *Responsive Landing Page* with an *interactive navigation menu* that changes color or style when hovering over a menu item.
+The task was to build a *Responsive Landing Page* with an *interactive navigation menu* that changes  style when hovering over a menu item.
 
 ---
 
@@ -19,7 +19,7 @@ The page is fully responsive and contains the following features:
   - Fixed position (visible on all pages)
 
 - ✅ *Responsive Design*
-  - Works smoothly on desktop, tablet, and mobile devices
+  - Works smoothly on desktop, tablet.
 
 - ✅ *Amazon-like UI*
   - Header section with logo & navigation  
@@ -28,8 +28,8 @@ The page is fully responsive and contains the following features:
 
 - ✅ *Tech Stack Used*
   - *HTML5* → For structuring the page  
-  - *CSS3* → For styling and responsiveness  
-  - *JavaScript* → For adding interactivity  
+  - *CSS* → For styling and responsiveness  
+    
 
 ---
 
